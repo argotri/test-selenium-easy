@@ -13,7 +13,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <serenity.version>2.0.70</serenity.version>
         <serenity.cucumber.version>1.0.15</serenity.cucumber.version>
-        <webdriver.driver>chrome</webdriver.driver>
         <cucumber.version>4.2.0</cucumber.version>
         <parallel.tests>4</parallel.tests>
     </properties>
