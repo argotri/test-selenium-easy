@@ -122,9 +122,6 @@
                         <include>**/*.java</include>
                     </includes>
                     <argLine>-Xmx512m </argLine>
-                    <systemPropertyVariables>
-                        <webdriver.driver>${webdriver.driver}</webdriver.driver>
-                    </systemPropertyVariables>
                     <parallel>suitesAndClasses</parallel>
                     <threadCount>${parallel.tests}</threadCount>
                     <forkCount>${parallel.tests}</forkCount>
